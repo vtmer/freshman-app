@@ -1,7 +1,7 @@
 Freshman-app
 ============
 
-The app of tht freshman website for android platform.
+The app of the freshman website for android platform.
 
 ***
 
